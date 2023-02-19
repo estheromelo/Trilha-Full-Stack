@@ -3,5 +3,5 @@
 ### Desafio Trilha Full Stack.
 
 <hr>
-Realizei a criação do <main> e <footer> 
+Realizei a criação do main e footer 
  😊💕
