@@ -11,4 +11,4 @@ Um dos desafios enfrentados foi a responsividade, mas após algumas tentativas d
 ## 🛠 Habilidades
  HTML, CSS, Responsividade.
  
- ![WhatsApp Image 2023-02-19 at 23 55 56](https://user-images.githubusercontent.com/113307737/220001689-b6aaafa0-8ba5-4360-8382-04536fbd8fc8.jpeg)
+![Screenshot_3](https://user-images.githubusercontent.com/113307737/220002992-00e79af7-ef70-4833-9aa2-867aff042944.png)
