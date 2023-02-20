@@ -179,8 +179,8 @@ header {
 
 .line-height {
     line-height: 2rem;
+    text-align: center;
 }
-
 
 @media (max-width:451px) {
 
