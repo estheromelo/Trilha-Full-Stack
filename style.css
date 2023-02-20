@@ -80,28 +80,32 @@ header {
     color: var(--cor-rosa-claro);
 }
 
-.conteudo__principal {
-    width:100%
-}
+
 .card__container {
     display: flex;
-    justify-content: space-around;
+  
+    gap:2rem;
+
+    justify-content: center;
+    align-items: center;
+    padding-block: 5rem;
     flex-wrap: wrap;
-
-    
-    gap: 2.5rem;
-
 }
 
 .card {
     background-color: var(--cor--cinza-claro);
 
-    width: 24rem;
-    height: 26rem;
-    margin-top: 2.3125rem;
+    flex-basis: 21rem;
+    height: 28rem;
+   
     padding: 2rem;
 
     border-radius: 4px;
+
+    gap: 1.5rem;
+    display: flex;
+    flex-direction: column;
+
 }
 
 .card__titulo {
@@ -111,11 +115,6 @@ header {
     color: var(--cor--azul-escuro);
 }
 
-.card__estilo {
-    gap: 1.5rem;
-    display: flex;
-    flex-direction: column;
-}
 
 .card__texto {
     font-size: 16px;
@@ -157,7 +156,9 @@ header {
 }
 
 .espacamento {
-    gap: 2rem;
+    display: flex;
+    gap:2rem;
+
 }
 
 .line-height {
